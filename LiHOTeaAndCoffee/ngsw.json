@@ -1,0 +1,74 @@
+{
+  "configVersion": 1,
+  "timestamp": 1552115541289,
+  "index": "https://ngeeannrobin.github.io/LiHOTeaAndCoffee/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://ngeeannrobin.github.io/LiHOTeaAndCoffee/es2015-polyfills.4a4cfea0ce682043f4e9.js",
+        "https://ngeeannrobin.github.io/LiHOTeaAndCoffee/favicon.ico",
+        "https://ngeeannrobin.github.io/LiHOTeaAndCoffee/index.html",
+        "https://ngeeannrobin.github.io/LiHOTeaAndCoffee/main.0f8a39a09cd457258bb2.js",
+        "https://ngeeannrobin.github.io/LiHOTeaAndCoffee/polyfills.407a467dedb63cfdd103.js",
+        "https://ngeeannrobin.github.io/LiHOTeaAndCoffee/runtime.a5dd35324ddfd942bef1.js",
+        "https://ngeeannrobin.github.io/LiHOTeaAndCoffee/styles.e2812621a3f2414dbffd.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://ngeeannrobin.github.io/LiHOTeaAndCoffee/assets/icons/icon-128x128.png",
+        "https://ngeeannrobin.github.io/LiHOTeaAndCoffee/assets/icons/icon-144x144.png",
+        "https://ngeeannrobin.github.io/LiHOTeaAndCoffee/assets/icons/icon-152x152.png",
+        "https://ngeeannrobin.github.io/LiHOTeaAndCoffee/assets/icons/icon-192x192.png",
+        "https://ngeeannrobin.github.io/LiHOTeaAndCoffee/assets/icons/icon-384x384.png",
+        "https://ngeeannrobin.github.io/LiHOTeaAndCoffee/assets/icons/icon-512x512.png",
+        "https://ngeeannrobin.github.io/LiHOTeaAndCoffee/assets/icons/icon-72x72.png",
+        "https://ngeeannrobin.github.io/LiHOTeaAndCoffee/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://ngeeannrobin.github.io/LiHOTeaAndCoffee/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://ngeeannrobin.github.io/LiHOTeaAndCoffee/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://ngeeannrobin.github.io/LiHOTeaAndCoffee/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://ngeeannrobin.github.io/LiHOTeaAndCoffee/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://ngeeannrobin.github.io/LiHOTeaAndCoffee/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://ngeeannrobin.github.io/LiHOTeaAndCoffee/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://ngeeannrobin.github.io/LiHOTeaAndCoffee/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://ngeeannrobin.github.io/LiHOTeaAndCoffee/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://ngeeannrobin.github.io/LiHOTeaAndCoffee/es2015-polyfills.4a4cfea0ce682043f4e9.js": "b7a81c61d32b0b12737f0c13f45973ba391cd7f9",
+    "https://ngeeannrobin.github.io/LiHOTeaAndCoffee/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://ngeeannrobin.github.io/LiHOTeaAndCoffee/index.html": "621fd88d25388beb6023f082d79b712f2e474ca1",
+    "https://ngeeannrobin.github.io/LiHOTeaAndCoffee/main.0f8a39a09cd457258bb2.js": "b67712bc910d7b0af5bb4d0a0a13f9e58a1ca36c",
+    "https://ngeeannrobin.github.io/LiHOTeaAndCoffee/polyfills.407a467dedb63cfdd103.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
+    "https://ngeeannrobin.github.io/LiHOTeaAndCoffee/runtime.a5dd35324ddfd942bef1.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://ngeeannrobin.github.io/LiHOTeaAndCoffee/styles.e2812621a3f2414dbffd.css": "6b9f0e04b23909342a28f574cda6b8044d07a701"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
